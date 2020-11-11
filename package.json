@@ -1,0 +1,8 @@
+{
+  "name": "clean-architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcostadeudesigner/clean-architecture.git",
+  "author": "Marcos Tadeu <marcos.silva@cvortex.io>",
+  "license": "MIT"
+}
